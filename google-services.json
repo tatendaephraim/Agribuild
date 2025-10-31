@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "558798397187",
+    "project_id": "agribid-c119b",
+    "storage_bucket": "agribid-c119b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558798397187:android:a21e7a248799ec3227d336",
+        "android_client_info": {
+          "package_name": "com.example.agribid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUaEtQy3lEXCmjeAInprOvMvA-fOenTBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

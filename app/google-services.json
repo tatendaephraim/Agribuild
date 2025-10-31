@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "558798397187",
+    "project_id": "agribid-c119b",
+    "storage_bucket": "agribid-c119b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558798397187:android:810339e16a9f7daf27d336",
+        "android_client_info": {
+          "package_name": "com.agribid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558798397187-5aaat8cebgurovh5s0lbnbe4vbl9nq3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUaEtQy3lEXCmjeAInprOvMvA-fOenTBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558798397187-5aaat8cebgurovh5s0lbnbe4vbl9nq3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558798397187:android:a21e7a248799ec3227d336",
+        "android_client_info": {
+          "package_name": "com.example.agribid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558798397187-5aaat8cebgurovh5s0lbnbe4vbl9nq3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUaEtQy3lEXCmjeAInprOvMvA-fOenTBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558798397187-5aaat8cebgurovh5s0lbnbe4vbl9nq3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
